@@ -14,6 +14,7 @@ function About() {
       <div className="about-nike-part">
         <h2 className="about-nike-heading">About Nike</h2>
         <p className='about-nike-para'>
+          Our mission is what drives us to do everything possible to expand
           human potential. We do that by creating groundbreaking sport
           innovations, by making our products more sustainably, by building a
           creative and diverse global team and by making a positive impact in
